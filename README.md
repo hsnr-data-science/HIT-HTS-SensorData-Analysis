@@ -1,6 +1,6 @@
-# ICPS-Supporting-Material
+# Supporting-Material
 
-This repo contains supporting information, code and the datasets for our ICPS publication [Characterizing Materials with Deep Learning for High-Throughput Formulation Screening](https://link.com).
+This repo contains supporting information, code and the datasets for our publication [Characterizing Materials with Deep Learning for High-Throughput Formulation Screening](https://link.com).
 ---
 
 ## Materials and sample preparation
