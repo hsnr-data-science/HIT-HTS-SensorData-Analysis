@@ -1,6 +1,7 @@
 # Supporting-Material
 
-This repo contains supporting information, code and the datasets for our publication [Characterizing Materials with Deep Learning for High-Throughput Formulation Screening](https://link.com).
+This repo contains supporting information, code and the datasets for our publication [Coatings Intelligence: Data-driven Automation for
+Chemistry 4.0](https://link.com).
 ---
 ## Code will be published soon!
 

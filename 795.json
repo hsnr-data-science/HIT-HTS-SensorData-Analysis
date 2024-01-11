@@ -1,0 +1,1346 @@
+{
+  "authorizationContext": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIyMSIsInVuaXF1ZV9uYW1lIjoiVXNlck9wZW5BY2Nlc3MxIiwicm9sZSI6IjkzLDEzNSwxMzcsMTM4LDEzOSwxNDAsOTEiLCJuYmYiOjE3MDE0MjU2NzQsImV4cCI6MTcwMTQyOTI3NCwiaWF0IjoxNzAxNDI1Njc0fQ.pFiaVYiTOBqisoPebMQIV62DTBW6UOmpah3nLLSbiOs"
+  },
+  "result": [
+    {
+      "createdAt": "2023-10-11T11:31:55Z",
+      "experiments": [
+        {
+          "author": "LW, GYZ",
+          "externalId": "R795 E1",
+          "id": 4081,
+          "label": "Experiment 1",
+          "trials": [
+            {
+              "createdProducts": [
+                {
+                  "articleId": 28,
+                  "attributes": [
+                    {
+                      "attributeDefinitionId": 209,
+                      "attributeDefinitionLabel": "Substrates used in experiment counter",
+                      "attributeId": 119072,
+                      "attributeValueId": 122496,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "70b989d7-d5af-4073-8145-d9a2dfa33fc8",
+                      "insertedAt": "2023-10-11T11:43:25Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 1
+                    },
+                    {
+                      "attributeDefinitionId": 149,
+                      "attributeDefinitionLabel": "CharacterisationResultCSV",
+                      "attributeId": 119130,
+                      "attributeValueId": 122554,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "d4da93bb-10e6-4319-a743-476a50cfa694",
+                      "insertedAt": "2023-10-12T15:47:07Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2500,
+                      "unitDescription": "Document",
+                      "value": {
+                        "id": 1722,
+                        "mimeType": "text/csv",
+                        "name": "A206-R795-E4081-T0_minitest_S0Time_2310121746.csv",
+                        "path": "D:\\Vault\\Documents\\2023\\1012\\02017552-c449-4825-ba30-75d99b1f7999"
+                      }
+                    },
+                    {
+                      "attributeDefinitionId": 149,
+                      "attributeDefinitionLabel": "CharacterisationResultCSV",
+                      "attributeId": 119132,
+                      "attributeValueId": 122556,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "d4da93bb-10e6-4319-a743-476a50cfa694",
+                      "insertedAt": "2023-10-12T15:48:06Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2500,
+                      "unitDescription": "Document",
+                      "value": {
+                        "id": 1723,
+                        "mimeType": "text/csv",
+                        "name": "A206-R795-E4081-T0_haze_S0Time_2310121747.csv",
+                        "path": "D:\\Vault\\Documents\\2023\\1012\\6aa2902b-54f6-4039-84e6-9b04409221a9"
+                      }
+                    },
+                    {
+                      "attributeDefinitionId": 260,
+                      "attributeDefinitionLabel": "Sample Counter",
+                      "attributeId": 119140,
+                      "attributeValueId": 122564,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "b2abb0a3-4fa7-4d1b-a86e-c77cf5419537",
+                      "insertedAt": "2023-10-12T15:52:58Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2200,
+                      "unitDescription": "One",
+                      "value": 0.0
+                    },
+                    {
+                      "attributeDefinitionId": 257,
+                      "attributeDefinitionLabel": "Environment Temperature",
+                      "attributeId": 119141,
+                      "attributeValueId": 122565,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "8ade0f65-58e3-49ff-85a8-8f3c41ce620f",
+                      "insertedAt": "2023-10-12T15:52:58Z",
+                      "isCalculableAttribute": false,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": 13.73241370889997
+                    },
+                    {
+                      "attributeDefinitionId": 256,
+                      "attributeDefinitionLabel": "Environment Humidity ",
+                      "attributeId": 119142,
+                      "attributeValueId": 122566,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "d2aa4295-30d2-4804-bbf2-b19141ae599b",
+                      "insertedAt": "2023-10-12T15:52:58Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2201,
+                      "unitDescription": "Percent",
+                      "value": 51.944792016375
+                    },
+                    {
+                      "attributeDefinitionId": 260,
+                      "attributeDefinitionLabel": "Sample Counter",
+                      "attributeId": 119143,
+                      "attributeValueId": 122567,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "b2abb0a3-4fa7-4d1b-a86e-c77cf5419537",
+                      "insertedAt": "2023-10-12T15:54:00Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2200,
+                      "unitDescription": "One",
+                      "value": 0.0
+                    },
+                    {
+                      "attributeDefinitionId": 257,
+                      "attributeDefinitionLabel": "Environment Temperature",
+                      "attributeId": 119144,
+                      "attributeValueId": 122568,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "8ade0f65-58e3-49ff-85a8-8f3c41ce620f",
+                      "insertedAt": "2023-10-12T15:54:00Z",
+                      "isCalculableAttribute": false,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": 13.759880367450023
+                    },
+                    {
+                      "attributeDefinitionId": 256,
+                      "attributeDefinitionLabel": "Environment Humidity ",
+                      "attributeId": 119145,
+                      "attributeValueId": 122569,
+                      "attributeValueIndex": 0,
+                      "cstIdentifier": "d2aa4295-30d2-4804-bbf2-b19141ae599b",
+                      "insertedAt": "2023-10-12T15:54:00Z",
+                      "isCalculableAttribute": false,
+                      "unit": 2201,
+                      "unitDescription": "Percent",
+                      "value": 51.75405133212501
+                    }
+                  ],
+                  "comment": "A28-R795-E4081-T0",
+                  "id": 19881,
+                  "label": "A28-R795-E4081-T0",
+                  "location": {
+                    "id": 19870,
+                    "label": "External 250 ml Plastic Beaker"
+                  },
+                  "parentLocation": {
+                    "id": 2,
+                    "label": "Waste"
+                  }
+                }
+              ],
+              "nodes": [
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:41:24Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3436,
+                  "label": "Label External Beaker",
+                  "parameters": [
+                    {
+                      "id": 51,
+                      "input": true,
+                      "label": "W_ProjectName",
+                      "output": false,
+                      "unit": 2600,
+                      "unitDescription": "Text",
+                      "value": "ICPS-Paper"
+                    }
+                  ],
+                  "started": "2023-10-11T11:37:42Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:42:25Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3437,
+                  "label": "Compare Barcode",
+                  "parameters": [],
+                  "started": "2023-10-11T11:41:25Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:43:25Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3438,
+                  "label": "Load Shuttle for Substrate",
+                  "parameters": [
+                    {
+                      "id": 43,
+                      "input": true,
+                      "label": "W_WaitForStorageToUnlock",
+                      "output": false,
+                      "unit": 2700,
+                      "unitDescription": "Boolean",
+                      "value": true
+                    },
+                    {
+                      "atributeDefinitionId": 241,
+                      "experimentProductResults": [],
+                      "id": 44,
+                      "input": true,
+                      "label": "W_LoadExistingProductID",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 0.0
+                    },
+                    {
+                      "id": 45,
+                      "input": true,
+                      "label": "W_LoadFromPreviousStep",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 0.0
+                    },
+                    {
+                      "id": 46,
+                      "input": true,
+                      "label": "W_LoadArticleID",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 37.0
+                    }
+                  ],
+                  "started": "2023-10-11T11:42:25Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:43:58Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3439,
+                  "label": "Open Container",
+                  "parameters": [],
+                  "started": "2023-10-11T11:43:26Z"
+                },
+                {
+                  "assemblies": [
+                    {
+                      "adjustedPlanAmount": 0.0,
+                      "articleAttributes": [
+                        {
+                          "attributeDefinitionCstId": "8236bd40-3daa-464c-b0c9-7d064650fb17",
+                          "attributeDefinitionId": 84,
+                          "attributeDefinitionLabel": "Fine Dosing Amount",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 0.001
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "3e60a153-692c-45d6-b068-def0c7609109",
+                          "attributeDefinitionId": 89,
+                          "attributeDefinitionLabel": "Chunk Size",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 0.0001
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "1a4433cb-e202-4f99-8b92-d730536a45e0",
+                          "attributeDefinitionId": 90,
+                          "attributeDefinitionLabel": "Equilibration Time",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 3.0
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "113cfaf5-30d1-45ef-8854-15deb70c4ad8",
+                          "attributeDefinitionId": 91,
+                          "attributeDefinitionLabel": "Rough Dosing Pressure",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 60000.0
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "e2f97690-0f05-4780-9d1f-48d57fc9b391",
+                          "attributeDefinitionId": 92,
+                          "attributeDefinitionLabel": "Fine Dosing Pressure",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 60000.0
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "2a178c3e-a7e5-4c6c-bcd1-820fe3733a36",
+                          "attributeDefinitionId": 93,
+                          "attributeDefinitionLabel": "Switch Time",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 0.2
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "1111b29b-fa8b-4a18-af23-ac79def3f2c6",
+                          "attributeDefinitionId": 94,
+                          "attributeDefinitionLabel": "Duty Cycle",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "22adca8e-6489-4c71-8940-c61cf31fbe67",
+                          "attributeDefinitionId": 95,
+                          "attributeDefinitionLabel": "Tip Colour",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": "light green"
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "79359a53-5b85-410e-bbbd-8b3e6248871e",
+                          "attributeDefinitionId": 96,
+                          "attributeDefinitionLabel": "Dispense Timeout",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 600.0
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "12d50dd0-6e77-432c-bbe7-1ecb9a7758c9",
+                          "attributeDefinitionId": 97,
+                          "attributeDefinitionLabel": "Wait for Pressure Timeout",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": 0.0
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "74ab7532-443b-4d42-9ddd-0b92775d6728",
+                          "attributeDefinitionId": 80,
+                          "attributeDefinitionLabel": "Set of Parameter Label",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": "0"
+                            }
+                          ]
+                        },
+                        {
+                          "attributeDefinitionCstId": "9e61f679-693d-4d72-94a7-b63f7b771175",
+                          "attributeDefinitionId": 28,
+                          "attributeDefinitionLabel": "Dispensable",
+                          "attributeId": 0,
+                          "unit": 0,
+                          "unitDescription": "None",
+                          "values": [
+                            {
+                              "arrayIndex": 0,
+                              "value": true
+                            }
+                          ]
+                        }
+                      ],
+                      "assemblyInstructions": [],
+                      "assemblyResults": [
+                        {
+                          "dispensedProductId": 19880,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "e88eac15-bb3d-4dee-8a43-6e9d9c6f13db",
+                              "attributeDefinitionId": 217,
+                              "attributeDefinitionLabel": "Dispense Deviation",
+                              "attributeId": 119076,
+                              "unit": 2201,
+                              "unitDescription": "Percent",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 0.15000000000000568
+                                }
+                              ]
+                            },
+                            {
+                              "attributeDefinitionCstId": "f8ecef0e-7d76-4572-91b3-289b4f6822dc",
+                              "attributeDefinitionId": 5,
+                              "attributeDefinitionLabel": "MassAmount",
+                              "attributeId": 119075,
+                              "unit": 1000,
+                              "unitDescription": "Kilogram",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 0.022033
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "dispenseEnded": "2023-10-11T11:46:46Z",
+                      "dispenseParameters": [],
+                      "dispenseStarted": "2023-10-11T11:45:01Z",
+                      "dispensedAmount": 22.033,
+                      "dispensedProducts": [
+                        {
+                          "articleId": 255,
+                          "attributes": [],
+                          "comment": "F\u00fcr ICPS Paper Versuche ",
+                          "id": 19880,
+                          "label": "mipa HS 25 2K-HS-H\u00e4rter"
+                        }
+                      ],
+                      "id": 255,
+                      "label": "mipa HS 25 2K-HS-H\u00e4rter",
+                      "plannedAmount": 22.0,
+                      "type": 0,
+                      "unit": 1001,
+                      "unitDescription": "Gram"
+                    }
+                  ],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:47:11Z",
+                  "executorModules": [
+                    {
+                      "id": 7,
+                      "label": "M07 Liquid S"
+                    }
+                  ],
+                  "id": 3440,
+                  "label": "Dispense Liquid - S",
+                  "parameters": [],
+                  "started": "2023-10-11T11:44:56Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:49:25Z",
+                  "executorModules": [
+                    {
+                      "id": 11,
+                      "label": "M11 Mix & Screwcapper"
+                    }
+                  ],
+                  "id": 3441,
+                  "label": "Close Container",
+                  "parameters": [],
+                  "started": "2023-10-11T11:48:05Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:53:57Z",
+                  "executorModules": [
+                    {
+                      "id": 11,
+                      "label": "M11 Mix & Screwcapper"
+                    }
+                  ],
+                  "id": 3442,
+                  "label": "Mix",
+                  "parameters": [
+                    {
+                      "id": 14,
+                      "input": true,
+                      "label": "W_Speed",
+                      "output": false,
+                      "unit": 1601,
+                      "unitDescription": "RevolutionsPerMinute",
+                      "value": 1500.0
+                    },
+                    {
+                      "id": 15,
+                      "input": true,
+                      "label": "W_Duration",
+                      "output": false,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": 180.0
+                    }
+                  ],
+                  "started": "2023-10-11T11:49:25Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T11:54:43Z",
+                  "executorModules": [
+                    {
+                      "id": 11,
+                      "label": "M11 Mix & Screwcapper"
+                    }
+                  ],
+                  "id": 3443,
+                  "label": "Open Container",
+                  "parameters": [],
+                  "started": "2023-10-11T11:53:57Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T12:01:46Z",
+                  "executorModules": [
+                    {
+                      "id": 2,
+                      "label": "M02 Spray Airbone"
+                    }
+                  ],
+                  "id": 3444,
+                  "label": "Spray Airborne",
+                  "parameters": [
+                    {
+                      "id": 1,
+                      "input": true,
+                      "label": "W_VolumePerLayer",
+                      "output": false,
+                      "unit": 801,
+                      "unitDescription": "Milliliter",
+                      "value": 8.0
+                    },
+                    {
+                      "id": 2,
+                      "input": true,
+                      "label": "W_Method",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 261,
+                      "experimentProductResults": [],
+                      "id": 3,
+                      "input": false,
+                      "label": "W_TimeStamp",
+                      "output": true,
+                      "unit": 700,
+                      "unitDescription": "Timestamp",
+                      "value": ""
+                    },
+                    {
+                      "id": 4,
+                      "input": true,
+                      "label": "W_WaitTimeBetweenCoats",
+                      "output": false,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": 0.0
+                    },
+                    {
+                      "id": 5,
+                      "input": true,
+                      "label": "W_LayerNumber",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 1.0
+                    },
+                    {
+                      "id": 6,
+                      "input": true,
+                      "label": "W_SprayPressure",
+                      "output": false,
+                      "unit": 1501,
+                      "unitDescription": "Bar",
+                      "value": 1.5
+                    },
+                    {
+                      "id": 7,
+                      "input": true,
+                      "label": "W_AxisSpeed",
+                      "output": false,
+                      "unit": 502,
+                      "unitDescription": "MillimeterPerSecond",
+                      "value": 120.0
+                    },
+                    {
+                      "id": 8,
+                      "input": true,
+                      "label": "W_Overlap",
+                      "output": false,
+                      "unit": 401,
+                      "unitDescription": "Millimeter",
+                      "value": 24.0
+                    },
+                    {
+                      "id": 9,
+                      "input": true,
+                      "label": "W_BlowDry",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": 0.0
+                    },
+                    {
+                      "id": 10,
+                      "input": true,
+                      "label": "W_EstimatedFlowRate",
+                      "output": false,
+                      "unit": 901,
+                      "unitDescription": "MilliliterPerMinute",
+                      "value": 750000000.0
+                    },
+                    {
+                      "id": 20,
+                      "input": true,
+                      "label": "W_StartOffsetX",
+                      "output": false,
+                      "unit": 401,
+                      "unitDescription": "Millimeter",
+                      "value": 85.0
+                    },
+                    {
+                      "id": 21,
+                      "input": true,
+                      "label": "W_StartOffsetZ",
+                      "output": false,
+                      "unit": 401,
+                      "unitDescription": "Millimeter",
+                      "value": 87.0
+                    },
+                    {
+                      "id": 22,
+                      "input": true,
+                      "label": "W_StopOffsetX ",
+                      "output": false,
+                      "unit": 401,
+                      "unitDescription": "Millimeter",
+                      "value": 155.0
+                    },
+                    {
+                      "id": 23,
+                      "input": true,
+                      "label": "W_StopOffsetZ",
+                      "output": false,
+                      "unit": 401,
+                      "unitDescription": "Millimeter",
+                      "value": 93.0
+                    },
+                    {
+                      "id": 24,
+                      "input": true,
+                      "label": "W_VirtualLayerThickness",
+                      "output": false,
+                      "unit": 402,
+                      "unitDescription": "Micrometer",
+                      "value": ""
+                    },
+                    {
+                      "id": 25,
+                      "input": true,
+                      "label": "W_BlowDryPressure",
+                      "output": false,
+                      "unit": 1501,
+                      "unitDescription": "Bar",
+                      "value": 0.5
+                    },
+                    {
+                      "atributeDefinitionId": 257,
+                      "experimentProductResults": [],
+                      "id": 39,
+                      "input": false,
+                      "label": "W_EnvironmentTemperature",
+                      "output": true,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 256,
+                      "experimentProductResults": [],
+                      "id": 40,
+                      "input": false,
+                      "label": "W_EnvironmentHumidity",
+                      "output": true,
+                      "unit": 2201,
+                      "unitDescription": "Percent",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-11T11:56:49Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T12:02:42Z",
+                  "executorModules": [
+                    {
+                      "id": 18,
+                      "label": "M19 Screwcapper"
+                    }
+                  ],
+                  "id": 3445,
+                  "label": "Close Container",
+                  "parameters": [],
+                  "started": "2023-10-11T12:01:58Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T12:11:51Z",
+                  "executorModules": [
+                    {
+                      "id": 16,
+                      "label": "M17 Heat Curing"
+                    }
+                  ],
+                  "id": 3446,
+                  "label": "Heat Curing",
+                  "parameters": [
+                    {
+                      "id": 12,
+                      "input": true,
+                      "label": "W_HeatCuringTemperature",
+                      "output": false,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": 23.0
+                    },
+                    {
+                      "id": 13,
+                      "input": true,
+                      "label": "W_HeatCuringDuration",
+                      "output": false,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": 600.0
+                    },
+                    {
+                      "atributeDefinitionId": 254,
+                      "experimentProductResults": [],
+                      "id": 16,
+                      "input": false,
+                      "label": "W_ActualCuringDuration",
+                      "output": true,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-11T12:03:05Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T12:59:19Z",
+                  "executorModules": [
+                    {
+                      "id": 16,
+                      "label": "M17 Heat Curing"
+                    }
+                  ],
+                  "id": 3468,
+                  "label": "Heat Curing",
+                  "parameters": [
+                    {
+                      "id": 12,
+                      "input": true,
+                      "label": "W_HeatCuringTemperature",
+                      "output": false,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": 80.0
+                    },
+                    {
+                      "id": 13,
+                      "input": true,
+                      "label": "W_HeatCuringDuration",
+                      "output": false,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": 2700.0
+                    },
+                    {
+                      "atributeDefinitionId": 254,
+                      "experimentProductResults": [],
+                      "id": 16,
+                      "input": false,
+                      "label": "W_ActualCuringDuration",
+                      "output": true,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-11T12:11:51Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-11T13:04:24Z",
+                  "executorModules": [
+                    {
+                      "id": 16,
+                      "label": "M17 Heat Curing"
+                    }
+                  ],
+                  "id": 3469,
+                  "label": "Heat Curing",
+                  "parameters": [
+                    {
+                      "id": 12,
+                      "input": true,
+                      "label": "W_HeatCuringTemperature",
+                      "output": false,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": 23.0
+                    },
+                    {
+                      "id": 13,
+                      "input": true,
+                      "label": "W_HeatCuringDuration",
+                      "output": false,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": 300.0
+                    },
+                    {
+                      "atributeDefinitionId": 254,
+                      "experimentProductResults": [],
+                      "id": 16,
+                      "input": false,
+                      "label": "W_ActualCuringDuration",
+                      "output": true,
+                      "unit": 600,
+                      "unitDescription": "Second",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-11T12:59:20Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-12T15:47:07Z",
+                  "executorModules": [
+                    {
+                      "id": 17,
+                      "label": "M18 Characterization"
+                    }
+                  ],
+                  "id": 3447,
+                  "label": "Measure Thickness",
+                  "parameters": [
+                    {
+                      "id": 2,
+                      "input": true,
+                      "label": "W_Method",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 149,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "d4da93bb-10e6-4319-a743-476a50cfa694",
+                              "attributeDefinitionId": 149,
+                              "attributeId": 119130,
+                              "unit": 2500,
+                              "unitDescription": "Document",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "document": {
+                                    "fullName": "",
+                                    "id": 1722,
+                                    "name": "A206-R795-E4081-T0_minitest_S0Time_2310121746.csv",
+                                    "path": "D:\\Vault\\Documents\\2023\\1012\\02017552-c449-4825-ba30-75d99b1f7999"
+                                  },
+                                  "value": {
+                                    "id": 1722,
+                                    "mimeType": "text/csv",
+                                    "name": "A206-R795-E4081-T0_minitest_S0Time_2310121746.csv",
+                                    "path": "D:\\Vault\\Documents\\2023\\1012\\02017552-c449-4825-ba30-75d99b1f7999"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 18,
+                      "input": false,
+                      "label": "W_ThicknessGlossResultFile",
+                      "output": true,
+                      "unit": 2500,
+                      "unitDescription": "Document",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-12T15:46:23Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-12T15:48:06Z",
+                  "executorModules": [
+                    {
+                      "id": 17,
+                      "label": "M18 Characterization"
+                    }
+                  ],
+                  "id": 3448,
+                  "label": "Measure Haze-Gloss",
+                  "parameters": [
+                    {
+                      "id": 2,
+                      "input": true,
+                      "label": "W_Method",
+                      "output": false,
+                      "unit": 2800,
+                      "unitDescription": "Integer",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 149,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "d4da93bb-10e6-4319-a743-476a50cfa694",
+                              "attributeDefinitionId": 149,
+                              "attributeId": 119132,
+                              "unit": 2500,
+                              "unitDescription": "Document",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "document": {
+                                    "fullName": "",
+                                    "id": 1723,
+                                    "name": "A206-R795-E4081-T0_haze_S0Time_2310121747.csv",
+                                    "path": "D:\\Vault\\Documents\\2023\\1012\\6aa2902b-54f6-4039-84e6-9b04409221a9"
+                                  },
+                                  "value": {
+                                    "id": 1723,
+                                    "mimeType": "text/csv",
+                                    "name": "A206-R795-E4081-T0_haze_S0Time_2310121747.csv",
+                                    "path": "D:\\Vault\\Documents\\2023\\1012\\6aa2902b-54f6-4039-84e6-9b04409221a9"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 17,
+                      "input": false,
+                      "label": "W_HazeGlossResultFile",
+                      "output": true,
+                      "unit": 2500,
+                      "unitDescription": "Document",
+                      "value": ""
+                    }
+                  ],
+                  "started": "2023-10-12T15:47:09Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-12T15:52:58Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3449,
+                  "label": "Store Substrate",
+                  "parameters": [
+                    {
+                      "atributeDefinitionId": 257,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "8ade0f65-58e3-49ff-85a8-8f3c41ce620f",
+                              "attributeDefinitionId": 257,
+                              "attributeId": 119141,
+                              "unit": 201,
+                              "unitDescription": "Celsius",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 13.73241370889997
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 39,
+                      "input": false,
+                      "label": "W_EnvironmentTemperature",
+                      "output": true,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 256,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "d2aa4295-30d2-4804-bbf2-b19141ae599b",
+                              "attributeDefinitionId": 256,
+                              "attributeId": 119142,
+                              "unit": 2201,
+                              "unitDescription": "Percent",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 51.944792016375
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 40,
+                      "input": false,
+                      "label": "W_EnvironmentHumidity",
+                      "output": true,
+                      "unit": 2201,
+                      "unitDescription": "Percent",
+                      "value": ""
+                    },
+                    {
+                      "id": 41,
+                      "input": true,
+                      "label": "W_StoringTime",
+                      "output": false,
+                      "unit": 602,
+                      "unitDescription": "Hour",
+                      "value": ""
+                    },
+                    {
+                      "id": 42,
+                      "input": true,
+                      "label": "W_Label",
+                      "output": false,
+                      "unit": 2700,
+                      "unitDescription": "Boolean",
+                      "value": true
+                    },
+                    {
+                      "id": 47,
+                      "input": true,
+                      "label": "W_WillBeReloaded",
+                      "output": false,
+                      "unit": 2700,
+                      "unitDescription": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "atributeDefinitionId": 260,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "b2abb0a3-4fa7-4d1b-a86e-c77cf5419537",
+                              "attributeDefinitionId": 260,
+                              "attributeId": 119140,
+                              "unit": 2200,
+                              "unitDescription": "One",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 0.0
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 48,
+                      "input": false,
+                      "label": "W_SampleCounter",
+                      "output": true,
+                      "unit": 2200,
+                      "unitDescription": "One",
+                      "value": ""
+                    },
+                    {
+                      "id": 51,
+                      "input": true,
+                      "label": "W_ProjectName",
+                      "output": false,
+                      "unit": 2600,
+                      "unitDescription": "Text",
+                      "value": "ICPS-Paper"
+                    }
+                  ],
+                  "started": "2023-10-12T15:51:20Z"
+                },
+                {
+                  "assemblies": [],
+                  "carrierArticleId": 0,
+                  "ended": "2023-10-12T15:54:00Z",
+                  "executorModules": [
+                    {
+                      "id": 3,
+                      "label": "M03 Storage"
+                    }
+                  ],
+                  "id": 3467,
+                  "label": "Store Beaker",
+                  "parameters": [
+                    {
+                      "atributeDefinitionId": 257,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "8ade0f65-58e3-49ff-85a8-8f3c41ce620f",
+                              "attributeDefinitionId": 257,
+                              "attributeId": 119144,
+                              "unit": 201,
+                              "unitDescription": "Celsius",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 13.759880367450023
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 39,
+                      "input": false,
+                      "label": "W_EnvironmentTemperature",
+                      "output": true,
+                      "unit": 201,
+                      "unitDescription": "Celsius",
+                      "value": ""
+                    },
+                    {
+                      "atributeDefinitionId": 256,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "d2aa4295-30d2-4804-bbf2-b19141ae599b",
+                              "attributeDefinitionId": 256,
+                              "attributeId": 119145,
+                              "unit": 2201,
+                              "unitDescription": "Percent",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 51.75405133212501
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 40,
+                      "input": false,
+                      "label": "W_EnvironmentHumidity",
+                      "output": true,
+                      "unit": 2201,
+                      "unitDescription": "Percent",
+                      "value": ""
+                    },
+                    {
+                      "id": 41,
+                      "input": true,
+                      "label": "W_StoringTime",
+                      "output": false,
+                      "unit": 602,
+                      "unitDescription": "Hour",
+                      "value": ""
+                    },
+                    {
+                      "id": 42,
+                      "input": true,
+                      "label": "W_Label",
+                      "output": false,
+                      "unit": 2700,
+                      "unitDescription": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "id": 47,
+                      "input": true,
+                      "label": "W_WillBeReloaded",
+                      "output": false,
+                      "unit": 2700,
+                      "unitDescription": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "atributeDefinitionId": 260,
+                      "experimentProductResults": [
+                        {
+                          "productId": 19881,
+                          "resultAttributes": [
+                            {
+                              "attributeDefinitionCstId": "b2abb0a3-4fa7-4d1b-a86e-c77cf5419537",
+                              "attributeDefinitionId": 260,
+                              "attributeId": 119143,
+                              "unit": 2200,
+                              "unitDescription": "One",
+                              "values": [
+                                {
+                                  "arrayIndex": 0,
+                                  "value": 0.0
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "id": 48,
+                      "input": false,
+                      "label": "W_SampleCounter",
+                      "output": true,
+                      "unit": 2200,
+                      "unitDescription": "One",
+                      "value": ""
+                    },
+                    {
+                      "id": 51,
+                      "input": true,
+                      "label": "W_ProjectName",
+                      "output": false,
+                      "unit": 2600,
+                      "unitDescription": "Text",
+                      "value": "ICPS-Paper"
+                    }
+                  ],
+                  "started": "2023-10-12T15:53:21Z"
+                }
+              ],
+              "number": 0,
+              "state": 70,
+              "stateName": "Completed"
+            }
+          ]
+        }
+      ],
+      "productTimeseriesInfos": [],
+      "runAuthor": "",
+      "runId": 795,
+      "runLabel": "Experiment_04_Trial02_Run794",
+      "workflowAttributes": [],
+      "workflowId": 206,
+      "workflowLabel": " Workflow_Vorversuche_ICPS-Paper_Pot-life"
+    }
+  ]
+}
