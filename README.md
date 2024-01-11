@@ -3,7 +3,6 @@
 This repo contains supporting information, code and the datasets for our publication [Coatings Intelligence: Data-driven Automation for
 Chemistry 4.0](https://link.com).
 ---
-## Code will be published soon!
 
 ## Materials and sample preparation
 The training samples undergo manual coating with a two-component urethane-based base coating obtained from MIPA SE (Essenbach, Germany). This coating is chosen for its adjustable mechanical properties achieved by manipulating the ratios of its crosslinkers, HS 25 and MS 25, with HS 25 being the more reactive component. Using the provided materials, we prepare coatings with crosslinker weights ranging from 0 to 50 wt.% for MS 25 and 0 to 25 wt.% for HS 25, based on previous tests to prevent surface flaws. After speed-mixing at 2000 rpm for 60 seconds, the mixture is applied to degreased steel panels using an 80-micron bar. The panels are allowed to flash off at room temperature for 15 minutes and then oven-dried at 60°C for 30 minutes in preparation for scratch testing.
